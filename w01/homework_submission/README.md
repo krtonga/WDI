@@ -7,7 +7,7 @@
 * Copy the ssh clone url on your fork of the repository.
 ![Set up remotes](02_ssh_clone_url.png)
 
-* ***Clone your fork of the repository down to your local machine.***
+* Clone your fork of the repository down to your local machine.
 ![clone](03_clone.png)
 
 * Have a look at your remotes with ```bash git remote -v```: 
