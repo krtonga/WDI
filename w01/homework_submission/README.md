@@ -10,7 +10,7 @@
 * Clone your fork of the repository down to your local machine.
 ![clone](03_clone.png)
 
-* Have a look at your remotes with ```bash git remote -v```: 
+* Have a look at your remotes with ```git remote -v```: 
 ![remote](04_git_remote_v.png)
 
 * Copy the ssh clone url of the class repository.
@@ -21,7 +21,7 @@
 
 # To do on a many times daily basis...
 ## Get materials from the class repository
-* ```bash git pull upstream master``` will pull in files from the class repository, which is set as your `upstream` remote.
+* ```git pull upstream master``` will pull in files from the class repository, which is set as your `upstream` remote.
 ![pull upsream](07_git_pull_upstream_master.png)
 
 ## Do your work.
@@ -34,7 +34,7 @@
 * Tell GIT to take a snapshot of your working code. 
 ![git commit](10_commit_your_work_to_git.png)
 
-* ```bash git status``` shows the state of your code base.  Here you will see that there are no additional changes to commit.
+* ```git status``` shows the state of your code base.  Here you will see that there are no additional changes to commit.
 ![git status](11_commit_your_work_to_git_2.png)
 
 ## Submit your work.
