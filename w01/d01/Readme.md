@@ -1,7 +1,7 @@
 ###Week01-Day01
 
 #WORK IN YOUR OWN FOLDER ONLY!
-#Your pull-request title must start with `w01_d01_submission`
+#Your pull-request title must start with `w01_submission`
 
 ---
 
