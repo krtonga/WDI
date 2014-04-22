@@ -18,7 +18,5 @@ At the end of the day, you should have a folder structure that looks something l
         - projects
         - misc
         - WDI_NYC_Apr14_Proto
-
-
 ```
 
